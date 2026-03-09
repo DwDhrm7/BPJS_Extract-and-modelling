@@ -181,7 +181,7 @@ Possible improvements:
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
+# 👨‍💻 Author & co
 
 **I Dewa Made Dharma Putra Santika**\
 Artificial Intelligence • Machine Learning • IT Student
