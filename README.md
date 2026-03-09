@@ -184,5 +184,7 @@ Possible improvements:
 # 👨‍💻 Author
 
 **I Dewa Made Dharma Putra Santika**\
-Artificial Intelligence • Machine Learning • Healthcare Data Analysis •
-Robotics & IoT
+Artificial Intelligence • Machine Learning • IT Student
+
+**Kadek Merynda Kumala Tungga**\
+Doctoral Student
