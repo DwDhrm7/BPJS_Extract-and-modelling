@@ -3,19 +3,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "6d8b361c",
+   "id": "6c70f7d2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T03:34:25.698306Z",
-     "iopub.status.busy": "2026-03-27T03:34:25.697322Z",
-     "iopub.status.idle": "2026-03-27T03:36:49.000364Z",
-     "shell.execute_reply": "2026-03-27T03:36:48.999078Z"
+     "iopub.execute_input": "2026-03-27T03:45:49.044910Z",
+     "iopub.status.busy": "2026-03-27T03:45:49.044497Z",
+     "iopub.status.idle": "2026-03-27T03:48:09.017326Z",
+     "shell.execute_reply": "2026-03-27T03:48:09.016512Z"
     },
     "papermill": {
-     "duration": 143.309978,
-     "end_time": "2026-03-27T03:36:49.002453",
+     "duration": 139.980442,
+     "end_time": "2026-03-27T03:48:09.019713",
      "exception": false,
-     "start_time": "2026-03-27T03:34:25.692475",
+     "start_time": "2026-03-27T03:45:49.039271",
      "status": "completed"
     },
     "tags": []
@@ -93,19 +93,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "6850e59d",
+   "id": "1079367c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T03:36:49.010612Z",
-     "iopub.status.busy": "2026-03-27T03:36:49.010287Z",
-     "iopub.status.idle": "2026-03-27T03:37:29.886581Z",
-     "shell.execute_reply": "2026-03-27T03:37:29.885480Z"
+     "iopub.execute_input": "2026-03-27T03:48:09.047781Z",
+     "iopub.status.busy": "2026-03-27T03:48:09.047404Z",
+     "iopub.status.idle": "2026-03-27T03:48:48.990652Z",
+     "shell.execute_reply": "2026-03-27T03:48:48.989538Z"
     },
     "papermill": {
-     "duration": 40.883239,
-     "end_time": "2026-03-27T03:37:29.888804",
+     "duration": 39.952604,
+     "end_time": "2026-03-27T03:48:48.992546",
      "exception": false,
-     "start_time": "2026-03-27T03:36:49.005565",
+     "start_time": "2026-03-27T03:48:09.039942",
      "status": "completed"
     },
     "tags": []
@@ -1284,24 +1284,24 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "a9becfe5",
+   "id": "b4d9ad36",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2026-03-27T03:37:29.899489Z",
-     "iopub.status.busy": "2026-03-27T03:37:29.899119Z",
-     "iopub.status.idle": "2026-03-27T03:37:52.971884Z",
-     "shell.execute_reply": "2026-03-27T03:37:52.970517Z"
+     "iopub.execute_input": "2026-03-27T03:48:49.011005Z",
+     "iopub.status.busy": "2026-03-27T03:48:49.010088Z",
+     "iopub.status.idle": "2026-03-27T03:49:11.489242Z",
+     "shell.execute_reply": "2026-03-27T03:49:11.488235Z"
     },
     "jupyter": {
      "source_hidden": true
     },
     "papermill": {
-     "duration": 23.080631,
-     "end_time": "2026-03-27T03:37:52.973997",
+     "duration": 22.490354,
+     "end_time": "2026-03-27T03:49:11.491044",
      "exception": false,
-     "start_time": "2026-03-27T03:37:29.893366",
+     "start_time": "2026-03-27T03:48:49.000690",
      "status": "completed"
     },
     "tags": []
@@ -4521,19 +4521,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "ca114d90",
+   "id": "66616643",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T03:37:52.992300Z",
-     "iopub.status.busy": "2026-03-27T03:37:52.991933Z",
-     "iopub.status.idle": "2026-03-27T03:37:56.330531Z",
-     "shell.execute_reply": "2026-03-27T03:37:56.329249Z"
+     "iopub.execute_input": "2026-03-27T03:49:11.508406Z",
+     "iopub.status.busy": "2026-03-27T03:49:11.507580Z",
+     "iopub.status.idle": "2026-03-27T03:49:14.161539Z",
+     "shell.execute_reply": "2026-03-27T03:49:14.160537Z"
     },
     "papermill": {
-     "duration": 3.349131,
-     "end_time": "2026-03-27T03:37:56.332714",
+     "duration": 2.664297,
+     "end_time": "2026-03-27T03:49:14.163433",
      "exception": false,
-     "start_time": "2026-03-27T03:37:52.983583",
+     "start_time": "2026-03-27T03:49:11.499136",
      "status": "completed"
     },
     "tags": []
@@ -4927,19 +4927,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "5071d00a",
+   "id": "8d5195f0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T03:37:56.349762Z",
-     "iopub.status.busy": "2026-03-27T03:37:56.348873Z",
-     "iopub.status.idle": "2026-03-27T03:37:56.370326Z",
-     "shell.execute_reply": "2026-03-27T03:37:56.369209Z"
+     "iopub.execute_input": "2026-03-27T03:49:14.180701Z",
+     "iopub.status.busy": "2026-03-27T03:49:14.179907Z",
+     "iopub.status.idle": "2026-03-27T03:49:14.199581Z",
+     "shell.execute_reply": "2026-03-27T03:49:14.198576Z"
     },
     "papermill": {
-     "duration": 0.032074,
-     "end_time": "2026-03-27T03:37:56.372419",
+     "duration": 0.030329,
+     "end_time": "2026-03-27T03:49:14.201384",
      "exception": false,
-     "start_time": "2026-03-27T03:37:56.340345",
+     "start_time": "2026-03-27T03:49:14.171055",
      "status": "completed"
     },
     "tags": []
@@ -4975,19 +4975,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "49c6b7ab",
+   "id": "6f936dd3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T03:37:56.389259Z",
-     "iopub.status.busy": "2026-03-27T03:37:56.388896Z",
-     "iopub.status.idle": "2026-03-27T03:38:51.196104Z",
-     "shell.execute_reply": "2026-03-27T03:38:51.195196Z"
+     "iopub.execute_input": "2026-03-27T03:49:14.218327Z",
+     "iopub.status.busy": "2026-03-27T03:49:14.217778Z",
+     "iopub.status.idle": "2026-03-27T03:49:34.955595Z",
+     "shell.execute_reply": "2026-03-27T03:49:34.954539Z"
     },
     "papermill": {
-     "duration": 54.825606,
-     "end_time": "2026-03-27T03:38:51.205487",
+     "duration": 20.74842,
+     "end_time": "2026-03-27T03:49:34.957544",
      "exception": false,
-     "start_time": "2026-03-27T03:37:56.379881",
+     "start_time": "2026-03-27T03:49:14.209124",
      "status": "completed"
     },
     "tags": []
@@ -4997,7 +4997,200 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Total kolom: 127\n",
+      "Jumlah baris: 5,715\n",
+      "FKL15A\n",
+      "C53    3673\n",
+      "C56    1303\n",
+      "C54     661\n",
+      "C55      78\n",
+      "Name: count, dtype: int64\n",
+      "Saved: task1_fkrtl_C53_C56.csv\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "\n",
+    "base_path = '/kaggle/input/datasets/dewadharmas/dataset/'\n",
+    "df_fkrtl = pd.read_stata(base_path + '202403_fkrtl.dta', convert_categoricals=False)\n",
+    "\n",
+    "df_fkrtl['FKL15A'] = df_fkrtl['FKL15A'].astype(str).str.strip().str.upper()\n",
+    "df_task1 = df_fkrtl[df_fkrtl['FKL15A'].str.startswith(('C53','C54','C55','C56'), na=False)].copy()\n",
+    "\n",
+    "print(f\"Jumlah baris: {len(df_task1):,}\")\n",
+    "print(df_task1['FKL15A'].value_counts())\n",
+    "\n",
+    "df_task1.to_csv('/kaggle/working/task1_fkrtl_C53_C56.csv', index=False, encoding='utf-8-sig')\n",
+    "print(\"Saved: task1_fkrtl_C53_C56.csv\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "f8757675",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-03-27T03:49:34.975055Z",
+     "iopub.status.busy": "2026-03-27T03:49:34.974277Z",
+     "iopub.status.idle": "2026-03-27T03:49:36.890629Z",
+     "shell.execute_reply": "2026-03-27T03:49:36.889727Z"
+    },
+    "papermill": {
+     "duration": 1.927091,
+     "end_time": "2026-03-27T03:49:36.892407",
+     "exception": false,
+     "start_time": "2026-03-27T03:49:34.965316",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Peserta unik dari Task 1: 711\n",
+      "Kepesertaan match: 711\n",
+      "Shape combined: (5715, 76)\n",
+      "Saved: task2_kepesertaan_C53_C56.csv\n",
+      "Saved: task2_fkrtl_kepesertaan_combined.csv\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "\n",
+    "base_path = '/kaggle/input/datasets/dewadharmas/dataset/'\n",
+    "\n",
+    "df_task1 = pd.read_csv('/kaggle/working/task1_fkrtl_C53_C56.csv', low_memory=False)\n",
+    "peserta_set = set(df_task1['PSTV01'].astype(str).dropna().unique())\n",
+    "print(f\"Peserta unik dari Task 1: {len(peserta_set):,}\")\n",
+    "\n",
+    "df_kep = pd.read_stata(base_path + '2015202401_kepesertaan.dta', convert_categoricals=False)\n",
+    "df_task2_kep = df_kep[df_kep['PSTV01'].astype(str).isin(peserta_set)].copy()\n",
+    "print(f\"Kepesertaan match: {len(df_task2_kep):,}\")\n",
+    "\n",
+    "# Samakan tipe PSTV01 ke string di kedua dataframe sebelum merge\n",
+    "df_task1['PSTV01'] = df_task1['PSTV01'].astype(str)\n",
+    "df_task2_kep['PSTV01'] = df_task2_kep['PSTV01'].astype(str)\n",
+    "\n",
+    "df_task2_combined = df_task1.merge(df_task2_kep, on='PSTV01', how='left', suffixes=('_fkrtl','_kep'))\n",
+    "print(f\"Shape combined: {df_task2_combined.shape}\")\n",
+    "\n",
+    "df_task2_kep.to_csv('/kaggle/working/task2_kepesertaan_C53_C56.csv', index=False, encoding='utf-8-sig')\n",
+    "df_task2_combined.to_csv('/kaggle/working/task2_fkrtl_kepesertaan_combined.csv', index=False, encoding='utf-8-sig')\n",
+    "print(\"Saved: task2_kepesertaan_C53_C56.csv\")\n",
+    "print(\"Saved: task2_fkrtl_kepesertaan_combined.csv\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "a739b9d6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-03-27T03:49:36.909653Z",
+     "iopub.status.busy": "2026-03-27T03:49:36.909109Z",
+     "iopub.status.idle": "2026-03-27T03:49:37.089497Z",
+     "shell.execute_reply": "2026-03-27T03:49:37.088454Z"
+    },
+    "papermill": {
+     "duration": 0.191255,
+     "end_time": "2026-03-27T03:49:37.091593",
+     "exception": false,
+     "start_time": "2026-03-27T03:49:36.900338",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Kolom diagnosis sekunder ditemukan: ['FKL16', 'FKL16A', 'FKL17', 'FKL17A', 'FKL18', 'FKL18A', 'FKL19', 'FKL19A']\n",
+      "Jumlah baris diagnosis sekunder: 45,720\n",
+      "diag_sekunder\n",
+      "MALIGNANT NEOPLASM OF CERVIX UTERI, UNSPECIFIED                     2465\n",
+      "C539                                                                2465\n",
+      "1654                                                                2187\n",
+      "Z51                                                                 2187\n",
+      "Q-5-44-0                                                            2008\n",
+      "PENYAKIT KRONIS KECIL LAIN-LAIN                                     2008\n",
+      "RADIOTHERAPY SESSION                                                1669\n",
+      "Z510                                                                1669\n",
+      "C-3-10-0                                                            1563\n",
+      "PROSEDUR RADIOTERAPI                                                1563\n",
+      "C53                                                                 1497\n",
+      "C56                                                                 1479\n",
+      "Z08                                                                 1444\n",
+      "1617                                                                1444\n",
+      "MALIGNANT NEOPLASM OF OVARY                                         1391\n",
+      "MALIGNANT NEOPLASM OF CERVIX UTERI                                  1278\n",
+      "1618                                                                1043\n",
+      "Z09                                                                 1043\n",
+      "Z098                                                                 988\n",
+      "FOLLOW-UP EXAMINATION AFTER OTHER TREATMENT FOR OTHER CONDITIONS     988\n",
+      "Name: count, dtype: int64\n",
+      "Saved: task3_diag_sekunder_C53_C56.csv\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "\n",
+    "df_task1 = pd.read_csv('/kaggle/working/task1_fkrtl_C53_C56.csv', low_memory=False)\n",
+    "\n",
+    "sek_cols = [c for c in df_task1.columns if any(x in c.upper() for x in ['FKL16','FKL17','FKL18','FKL19'])]\n",
+    "print(f\"Kolom diagnosis sekunder ditemukan: {sek_cols}\")\n",
+    "\n",
+    "if sek_cols:\n",
+    "    id_vars = [c for c in ['PSTV01', 'FKL15A'] if c in df_task1.columns]\n",
+    "    df_task3 = df_task1[id_vars + sek_cols].melt(\n",
+    "        id_vars=id_vars,\n",
+    "        value_vars=sek_cols,\n",
+    "        var_name='kolom_sek',\n",
+    "        value_name='diag_sekunder'\n",
+    "    )\n",
+    "    df_task3['diag_sekunder'] = df_task3['diag_sekunder'].astype(str).str.strip().str.upper()\n",
+    "    df_task3 = df_task3[~df_task3['diag_sekunder'].isin(['NAN', 'NONE', ''])].copy()\n",
+    "\n",
+    "    print(f\"Jumlah baris diagnosis sekunder: {len(df_task3):,}\")\n",
+    "    print(df_task3['diag_sekunder'].value_counts().head(20))\n",
+    "\n",
+    "    df_task3.to_csv('/kaggle/working/task3_diag_sekunder_C53_C56.csv', index=False, encoding='utf-8-sig')\n",
+    "    print(\"Saved: task3_diag_sekunder_C53_C56.csv\")\n",
+    "else:\n",
+    "    print(\"Kolom sekunder tidak ditemukan. Cek nama kolom:\")\n",
+    "    print(df_task1.columns.tolist())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "86f7b19f",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-03-27T03:49:37.109119Z",
+     "iopub.status.busy": "2026-03-27T03:49:37.108505Z",
+     "iopub.status.idle": "2026-03-27T03:50:28.850903Z",
+     "shell.execute_reply": "2026-03-27T03:50:28.850038Z"
+    },
+    "papermill": {
+     "duration": 51.760852,
+     "end_time": "2026-03-27T03:50:28.860447",
+     "exception": false,
+     "start_time": "2026-03-27T03:49:37.099595",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Total kolom terdokumentasi: 127\n",
       "\n",
       "Kandidat dummy:\n"
      ]
@@ -5376,6 +5569,13 @@
      },
      "metadata": {},
      "output_type": "display_data"
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Saved: task4_data_dictionary.csv\n"
+     ]
     }
    ],
    "source": [
@@ -5416,11 +5616,12 @@
     "            'kandidat_dummy' : 'YA' if is_dummy else '',\n",
     "        })\n",
     "\n",
-    "df_dict = pd.DataFrame(rows)\n",
-    "df_dict.to_csv('/kaggle/working/data_dictionary.csv', index=False, encoding='utf-8-sig')\n",
-    "print(f\"Total kolom: {len(df_dict)}\")\n",
+    "df_task4 = pd.DataFrame(rows)\n",
+    "df_task4.to_csv('/kaggle/working/task4_data_dictionary.csv', index=False, encoding='utf-8-sig')\n",
+    "print(f\"Total kolom terdokumentasi: {len(df_task4)}\")\n",
     "print(\"\\nKandidat dummy:\")\n",
-    "display(df_dict[df_dict['kandidat_dummy']=='YA'][['sumber','kolom','n_unik','contoh_nilai']])"
+    "display(df_task4[df_task4['kandidat_dummy']=='YA'][['sumber','kolom','n_unik','contoh_nilai']])\n",
+    "print(\"Saved: task4_data_dictionary.csv\")"
    ]
   }
  ],
@@ -5466,14 +5667,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 270.397207,
-   "end_time": "2026-03-27T03:38:52.636976",
+   "duration": 284.548694,
+   "end_time": "2026-03-27T03:50:30.290557",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-03-27T03:34:22.239769",
+   "start_time": "2026-03-27T03:45:45.741863",
    "version": "2.6.0"
   }
  },
