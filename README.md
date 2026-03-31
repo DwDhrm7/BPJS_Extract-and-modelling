@@ -187,4 +187,4 @@ Possible improvements:
 Artificial Intelligence • Machine Learning • IT Student
 
 **Kadek Merynda Kumala Tungga**\
-Medical Doctor Student
+Medical Student
